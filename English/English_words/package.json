@@ -1,0 +1,12 @@
+{
+  "name": "programma_verbi_e_parole_inglese",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controllo_verbi_e_parole_inglese.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

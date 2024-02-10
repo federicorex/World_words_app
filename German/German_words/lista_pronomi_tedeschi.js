@@ -1,0 +1,5 @@
+export {germanPronounsList};
+
+let germanPronounsList = [
+    "der, die, das", "sein", "ihr", "Ihr", "es", "sich", "Sie", "sie", "ihnen", "Ihnen", "er", "ihn", "unser", "dies, dieser, diese, dieses", "uns", "wir", "ich", "mir", "mich", "all, alle, alles", "was", "man", "viel", "kein", "ihm", "anderer, andere, anderes", "deren", "dessen", "jeder, jede, jedes", "beide", "selbst", "etwas", "du", "einiger, einige, einiges", "wer", "wem", "nichts, nix", "mein", "welcher, welche, welches", "solch", "dir", "wenig", "dich", "denen", "dein", "ein paar", "bisschen", "mehrere", "jener, jene, jenes", "jemand", "niemand", "mancher, manche, manches", "derselbe, dieselbe, dasselbe", "derjenige, diejenige, dasjenige", "euer", "selbe, selber, selbes", "jegliche", "selber", "euch", "irgendetwas, irgendwas", "irgendein", "irgendwelcher, irgendwelche, irgendwelches", "sämtlich", "etliche", "keinerlei", "wen"
+];
