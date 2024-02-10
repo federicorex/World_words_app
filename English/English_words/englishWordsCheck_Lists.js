@@ -1,6 +1,6 @@
-import {englishPronounsList} from "./lista_pronomi_inglesi.js"
-import {englishConjunctionsList} from "./lista_congiunzioni_inglesi.js"
-import {englishPrepositionsList} from "./lista_preposizioni_inglese.js"
+import {englishPronounsList} from "./englishPronouns_List.js"
+import {englishConjunctionsList} from "./englishConjunctions_List.js"
+import {englishPrepositionsList} from "./englishPrepositions_List.js"
 
 /**
  * Controllo delle singole liste di pronomi
