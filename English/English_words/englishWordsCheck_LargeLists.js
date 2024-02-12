@@ -3,6 +3,10 @@ import {englishNounsLargeList} from "./englishNouns_LargeList.js";
 import {englishAdjectivesLargeList} from "./englishAdjectives_LargeList.js";
 import {englishAdverbsLargeList} from "./englishAdverbs_LargeList.js";
 
+/**
+ * Checking large list of English verbs
+ */
+
 function findDuplicateEnglishVerbsLargeList () {
     for(let i=0; i<englishVerbsLargeList.length; i++){
         for(let j=englishVerbsLargeList.length-1; j>i; j--){
@@ -12,6 +16,10 @@ function findDuplicateEnglishVerbsLargeList () {
         }
     }
 }
+
+/**
+ * Checking large list of English nouns
+ */
 
 function findDuplicateEnglishNounsLargeList () {
     for(let i = 0; i < englishNounsLargeList.length; i++){
@@ -23,6 +31,10 @@ function findDuplicateEnglishNounsLargeList () {
     }
 }
 
+/**
+ * Checking large list of English adjectives
+ */
+
 function findDuplicateEnglishAdjectivesLargeList () {
     for(let i = 0; i < englishAdjectivesLargeList.length; i++){
         for(let j = englishAdjectivesLargeList.length-1; j > i; j--){
@@ -32,6 +44,10 @@ function findDuplicateEnglishAdjectivesLargeList () {
         }
     }
 }
+
+/**
+ * Checking large list of English adverbs
+ */
 
 function findDuplicateEnglishAdverbsLargeList () {
     for(let i = 0; i < englishAdverbsLargeList.length; i++){
