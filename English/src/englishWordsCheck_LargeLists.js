@@ -1,7 +1,7 @@
-import {englishVerbsLargeList} from "./englishVerbs_LargeList.js";
-import {englishNounsLargeList} from "./englishNouns_LargeList.js";
-import {englishAdjectivesLargeList} from "./englishAdjectives_LargeList.js";
-import {englishAdverbsLargeList} from "./englishAdverbs_LargeList.js";
+import {englishVerbsLargeList} from "./models/englishVerbs_LargeList.js";
+import {englishNounsLargeList} from "./models/englishNouns_LargeList.js";
+import {englishAdjectivesLargeList} from "./models/englishAdjectives_LargeList.js";
+import {englishAdverbsLargeList} from "./models/englishAdverbs_LargeList.js";
 
 /**
  * Checking large list of English verbs

@@ -1,6 +1,6 @@
-import {englishPronounsList} from "./englishPronouns_List.js"
-import {englishConjunctionsList} from "./englishConjunctions_List.js"
-import {englishPrepositionsList} from "./englishPrepositions_List.js"
+import {englishPronounsList} from "./models/englishPronouns_List.js"
+import {englishConjunctionsList} from "./models/englishConjunctions_List.js"
+import {englishPrepositionsList} from "./models/englishPrepositions_List.js"
 
 /**
  * Checking list of English pronouns

@@ -1,25 +1,25 @@
 import {
         englishVerbsList1, englishVerbsList2, englishVerbsList3, englishVerbsList4, englishVerbsList5, englishVerbsList6, englishVerbsList7, englishVerbsList8, englishVerbsList9, englishVerbsList10, englishVerbsList11
-} from "./englishVerbs_List.js";
+} from "./models/englishVerbs_Lists.js";
 import {
         englishNounsList1, englishNounsList2, englishNounsList3, englishNounsList4, englishNounsList5, englishNounsList6,
         englishNounsList7, englishNounsList8, englishNounsList9, englishNounsList10, englishNounsList11, englishNounsList12,englishNounsList13, englishNounsList14, englishNounsList15, englishNounsList16, englishNounsList17,englishNounsList18, englishNounsList19, englishNounsList20, englishNounsList21, englishNounsList22, englishNounsList23, englishNounsList24, englishNounsList25, englishNounsList26, englishNounsList27
-} from "./englishNouns_List.js";
+} from "./models/englishNouns_Lists.js";
 import {
         englishAdjectivesList1, englishAdjectivesList2, englishAdjectivesList3, englishAdjectivesList4, englishAdjectivesList5, englishAdjectivesList6, englishAdjectivesList7
-} from "./englishAdjectives_List.js";
+} from "./models/englishAdjectives_Lists.js";
 import {
         englishAdverbsList1, englishAdverbsList2, englishAdverbsList3
-} from "./englishAdverbs_List.js";
+} from "./models/englishAdverbs_Lists.js";
 import {
         englishPronounsList
-} from "./englishPronouns_List.js";
+} from "./models/englishPronouns_List.js";
 import {
         englishConjunctionsList
-} from "./englishConjunctions_List.js";
+} from "./models/englishConjunctions_List.js";
 import {
         englishPrepositionsList
-} from "./englishPrepositions_List.js";
+} from "./models/englishPrepositions_List.js";
 
 /**
  * English random verbs generator
