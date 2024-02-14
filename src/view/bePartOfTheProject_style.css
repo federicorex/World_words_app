@@ -1,0 +1,17 @@
+/* body {
+    background-color: blue;
+} */
+
+@keyframes changeColorShade {
+    0%   {background-color: rgb(122, 50, 50);}
+    25%  {background-color: rgb(134, 134, 56);}
+    50%  {background-color: rgb(57, 57, 134);}
+    100% {background-color: rgb(56, 136, 56);}
+  }
+
+  div {
+    background-color: rgb(62, 78, 168);
+    animation-name: changeColorShade;
+    animation-duration: 6s;
+    animation-iteration-count: 3;
+  }
